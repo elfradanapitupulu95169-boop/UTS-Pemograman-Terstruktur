@@ -1,0 +1,2 @@
+id;judul;pengarang;tahun;stok
+B03;Sistem Informasi Lanjutan;Eko;2024;8

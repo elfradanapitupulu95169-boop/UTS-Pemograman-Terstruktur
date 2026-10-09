@@ -1,0 +1,6 @@
+=== LAPORAN INVENTARIS PERPUSTAKAAN ===
+Total Koleksi Stok: 8
+Jumlah Buku dengan Stok < 5: 0
+
+Daftar Koleksi Terbaru:
+- [B03] Sistem Informasi Lanjutan (2024) - Stok: 8

@@ -1,0 +1,14 @@
+=== LAPORAN ANALISIS SUHU ===
+Rata-rata Suhu  : 31.14°C
+Suhu Tertinggi   : 35°C (Kamis)
+Suhu Terendah    : 28°C (Minggu)
+Jumlah Hari Panas: 3 hari
+
+Detail Harian:
+- Senin: 31°C [Normal]
+- Selasa: 33°C [Panas]
+- Rabu: 29°C [Normal]
+- Kamis: 35°C [Panas]
+- Jumat: 32°C [Panas]
+- Sabtu: 30°C [Normal]
+- Minggu: 28°C [Normal]
