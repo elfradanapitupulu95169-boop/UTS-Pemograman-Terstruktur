@@ -1,2 +1,6 @@
 id;judul;pengarang;tahun;stok
-B03;Sistem Informasi Lanjutan;Eko;2024;8
+B03;Sistem Informasi Terstruktur;Eko;2024;5
+B03;Pemograman Terstruktur;Rusman;2023;7
+B02;Algoritma dan Pemrograman;Liko;2023;7
+B02;Basis Data;Rohman;2022;3
+B04;Jaringan Komputer;Dodi;2025;1

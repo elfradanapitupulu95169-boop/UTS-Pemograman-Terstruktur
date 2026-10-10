@@ -1,6 +1,10 @@
 === LAPORAN INVENTARIS PERPUSTAKAAN ===
-Total Koleksi Stok: 8
-Jumlah Buku dengan Stok < 5: 0
+Total Koleksi Stok: 23
+Jumlah Buku dengan Stok < 5: 2
 
 Daftar Koleksi Terbaru:
-- [B03] Sistem Informasi Lanjutan (2024) - Stok: 8
+- [B04] Jaringan Komputer (2025) - Stok: 1
+- [B03] Sistem Informasi Terstruktur (2024) - Stok: 5
+- [B03] Pemograman Terstruktur (2023) - Stok: 7
+- [B02] Algoritma dan Pemrograman (2023) - Stok: 7
+- [B02] Basis Data (2022) - Stok: 3

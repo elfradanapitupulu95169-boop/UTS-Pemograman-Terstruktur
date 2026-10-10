@@ -9,12 +9,12 @@ def main():
 
     # Contoh Penambahan Data Baru
     try:
-        judul = validasi_non_kosong("Sistem Informasi Lanjutan", "Judul")
-        pengarang = validasi_non_kosong("Eko", "Pengarang")
-        tahun = validasi_tahun("2024")
-        stok = 8
+        judul = validasi_non_kosong("Jaringan Komputer", "Judul")
+        pengarang = validasi_non_kosong("Dodi", "Pengarang")
+        tahun = validasi_tahun("2025")
+        stok = 1
         
-        line = f"B03;{judul};{pengarang};{tahun};{stok}"
+        line = f"B04;{judul};{pengarang};{tahun};{stok}"
         handler.tambah_buku(line)
     except (InvalidDataError, AssertionError) as e:
         print(f"Gagal menambahkan data: {e}")
